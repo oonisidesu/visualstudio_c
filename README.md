@@ -1,0 +1,2 @@
+# visualstudio_c
+visualstudioとgitを連携練習用
